@@ -1,0 +1,84 @@
+body{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a.btn{
+    margin-top:20px;
+    margin-left: 40px;
+}
+#outside{  
+    
+    margin-top: 6%;
+    margin-bottom: 9%;
+    text-align: center;
+    width: 30%;
+    background: linear-gradient(to bottom, #009900 0%, #ccff66 100%);
+}
+h4{
+    margin-bottom:30px ;
+    color: whitesmoke;
+}
+
+.logindiv{
+    padding:40px 20px 20px 20px;
+    height: 300px;
+}
+input[type="email"],input[type="password"]{
+    width: 65%;
+}
+input[type="submit"]{
+    width: 80px;
+}
+input{
+    margin: 10px 0px 10px 0px;
+    padding: 3px;
+}
+
+footer{
+    background-color: rgb(227, 127, 227);
+    margin:50px 0px 0px 0px;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    color: white;
+}
+
+.addtxt,#txtPass{
+    width: 400px;
+    margin-left: 33%;
+}
+#btnSubmit{
+    margin-left: 60%;
+    width: 40%;
+}
+.add-admin{
+    background: linear-gradient(to bottom, #009900 0%, #ccff66 100%);
+    margin-top:5.2%;
+    margin-left: 25%;
+    margin-bottom: 9%;
+    width: 50%;
+    text-align: center;
+    padding-top: 2%;
+}
+.add-admin>h2{
+    color: white;
+}
+#tbInsertData{
+    margin-top: -5%;
+    color: rgb(86, 3, 120);
+}
+
+.add-employee{
+    background: linear-gradient(to bottom, #009900 0%, #ccff66 100%);
+    /* margin-top:1%; */
+    margin-left: 25%;
+    /* margin-bottom: 0%; */
+    width: 50%;
+    text-align: center;
+    padding-top: 1%;
+}
+.add-employee{
+    color: white;
+}

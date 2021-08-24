@@ -1,0 +1,95 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.LogoAndLogin{
+    padding: 30px 100px 30px 100px;
+    border-top: 10px solid #2b3f8d;
+        /* background: rgba(2,139,255,1); */
+}
+#LoginAndSearch{
+    text-align: right ;
+}
+.btnLogin{
+    padding-bottom: 10px;
+    
+}
+.btnLogin>a{    
+    color: black;
+    border-bottom: 1px solid black;
+    padding-bottom: 2px;
+    font-size: 20px;
+}
+.search-bar>input{
+    width: 50%;
+    padding-left: 10px;
+}
+.search-bar>button{
+    width: 10%;
+}
+.menu{
+    margin-left: 88px;
+    margin-right: 88px;
+}
+nav{
+    background-color: #0a1f77;
+}
+#navbarDropdown{
+    
+    color: white;
+}
+
+.navbar-brand{
+    background-color: #0a1f77;
+   padding-bottom: 12px;
+}
+.MenuAndSlide{
+    background-color: #007bff;
+}
+.navbar-brand>i{
+    color: white;
+}
+.imgslide{
+    width: 86.7%;
+    margin: auto;
+}
+
+
+.titleUnit{
+    text-align: center;
+    color: rgb(8, 157, 227);
+    margin: 1.5% 0% 1.5% 0%;
+}
+.showDonvi{
+    margin: auto;
+}
+.imgEmployee{
+    width: 100px;
+    height: 100px;
+}
+td{
+    font-size: 13px;
+
+}
+th{
+    width: 100px;
+    height: 100px;
+}
+.searchName{
+    text-align: center;
+}
+input[name="txtSearchName"]{
+    width: 500px;
+}
+input[name="sbmSearchName"]{
+    width: 100px;
+}
+#showSearch{
+    /* display: none; */
+}
+#showEmployee{
+    display: block;
+}
